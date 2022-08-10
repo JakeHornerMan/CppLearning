@@ -12,7 +12,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\Users\jakeh\Documents\GitHub\CppLearning\First\InitVariables\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="2" Name="FirstVisibleLine"/>
       <int Value="2" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -27,7 +27,7 @@
     <TabInfo>
       <wxString Value="C:\Users\jakeh\Documents\GitHub\CppLearning\First\Arrays\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="14" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
