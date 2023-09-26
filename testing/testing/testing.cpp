@@ -24,7 +24,8 @@ int main()
     //Continue(10, 2);
     /*char ch2[4] = "jHi";
     Break(ch2 , 'H');*/
-
+    //Pointer();
+    References();
 }
 
 
