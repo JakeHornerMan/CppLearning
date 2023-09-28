@@ -11,3 +11,4 @@ void wrongIncrement(int value);
 void Log(const char* message);
 void Log(const int message);
 void Log(const int* message);
+void Class();
