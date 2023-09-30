@@ -3,7 +3,7 @@
 int ScreenBounce() 
 {
     //Set Window
-    sf::RenderWindow window(sf::VideoMode(1280, 720), "SFML Window");
+    sf::RenderWindow window(sf::VideoMode(2560, 1440), "SFML Window");
     window.setFramerateLimit(120);
 
     //Set Shape
@@ -48,8 +48,8 @@ int ScreenBounce()
         }
 
         //Screen Bounds
-        if (position.x < (0) || position.x >(1280 - rect.getSize().x)) xVelocity *= -1;
-        if (position.y < 0 || position.y >(720 - rect.getSize().y)) yVelocity *= -1;
+        if (position.x < (0) || position.x >(window.getSize().x - rect.getSize().x)) xVelocity *= -1;
+        if (position.y < 0 || position.y >(window.getSize().y - rect.getSize().y)) yVelocity *= -1;
 
         //Movement
         position.x += xVelocity;
