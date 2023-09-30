@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97d2d821-6288-4ce9-9aea-639702a8aad8": {
+      "ProjectGuid": "97d2d821-6288-4ce9-9aea-639702a8aad8",
+      "DisplayName": "OpenGL_2D",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
