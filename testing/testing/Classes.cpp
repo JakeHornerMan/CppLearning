@@ -86,5 +86,4 @@ void Class()
 	std::cin.get();
 	player.ViewInventory();
 
-
 }

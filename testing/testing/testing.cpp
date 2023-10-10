@@ -7,6 +7,9 @@ void Log(const int message);
 #include "AddSub.h"
 #include "master.h"
 
+//external linkings
+extern int m_ExternalLinkedInt;
+
 int main()
 {
     /*Log("Print this message!");
@@ -26,7 +29,9 @@ int main()
     Break(ch2 , 'H');*/
     //Pointer();
     //References();
-    Class();
+    //Class();
+    RunLog();
+    Log(m_ExternalLinkedInt);
 }
 
 

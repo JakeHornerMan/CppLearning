@@ -145,10 +145,12 @@
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Control.cpp" />
     <ClCompile Include="Log.cpp" />
+    <ClCompile Include="LogClass.cpp" />
     <ClCompile Include="Loops.cpp" />
     <ClCompile Include="PointersRaw.cpp" />
     <ClCompile Include="Preprocessing.cpp" />
     <ClCompile Include="ReferencesAndPointers.cpp" />
+    <ClCompile Include="Static.cpp" />
     <ClCompile Include="testing.cpp" />
   </ItemGroup>
   <ItemGroup>

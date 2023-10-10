@@ -1,3 +1,5 @@
-﻿  Classes.cpp
-C:\Users\jakeh\Documents\GitHub\CppLearning\testing\testing\Classes.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+﻿  Static.cpp
+  testing.cpp
+C:\Users\jakeh\Documents\GitHub\CppLearning\testing\testing\testing.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
   testing.vcxproj -> C:\Users\jakeh\Documents\GitHub\CppLearning\testing\Debug\testing.exe
