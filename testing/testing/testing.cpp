@@ -9,7 +9,6 @@ void Log(const int message);
 
 //external linkings
 extern int m_ExternalLinkedInt;
-
 int main()
 {
     /*Log("Print this message!");
@@ -30,8 +29,14 @@ int main()
     //Pointer();
     //References();
     //Class();
-    RunLog();
-    Log(m_ExternalLinkedInt);
+    /*RunLog();
+    Log(m_ExternalLinkedInt);*/
+    //Static();
+    //RunLog();
+    //Constructors();
+    //Constructors();
+    Destructors();
+
 }
 
 

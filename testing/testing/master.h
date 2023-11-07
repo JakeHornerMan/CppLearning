@@ -13,3 +13,6 @@ void Log(const int message);
 void Log(const int* message);
 void Class();
 void RunLog();
+void Static();
+void Constructors();
+void Destructors();

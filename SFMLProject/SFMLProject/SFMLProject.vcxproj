@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="ScreenBounce.cpp" />
     <ClCompile Include="SFMLProject.cpp" />
+    <ClCompile Include="Text.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

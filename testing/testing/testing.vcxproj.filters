@@ -48,6 +48,12 @@
     <ClCompile Include="Static.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Enums.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstuctorsAndDestructors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EndBrace.h">

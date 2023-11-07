@@ -143,7 +143,9 @@
   <ItemGroup>
     <ClCompile Include="Add.cpp" />
     <ClCompile Include="Classes.cpp" />
+    <ClCompile Include="ConstuctorsAndDestructors.cpp" />
     <ClCompile Include="Control.cpp" />
+    <ClCompile Include="Enums.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="LogClass.cpp" />
     <ClCompile Include="Loops.cpp" />
